@@ -1,0 +1,16 @@
+item.credit_one.name=One Credit
+item.credit_five.name=Five Credits
+item.credit_ten.name=Ten Credits
+item.credit_twenty.name=Twenty Credits
+item.credit_fifty.name=Fifty Credits
+item.credit_onehundred.name=One Hundred Credits
+item.credit_fivehundred.name=Five Hundred Credits
+item.credit_onethousand.name=One Thousand Credits
+
+tile.vault_wall.name=Vault Wall
+tile.vault_glass.name=Vault Window
+tile.vault_floor.name=Vault Floor
+tile.vault_glass_walkthrough.name=False Vault Window
+tile.vault_light.name=Vault Light
+
+itemGroup.warfare=Warfare Support

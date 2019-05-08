@@ -1,0 +1,16 @@
+[
+{
+  "modid": "waradd",
+  "name": "Warfare Additions",
+  "description": "A mod i created for my modpack to allow for crafting and economy",
+  "version": "1.0.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["HaloReach252"],
+  "credits": "Me, myself, and I",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

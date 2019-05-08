@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube",
+	"textures": {
+		"particle": "waradd:blocks/vault_floor_top",
+		"down": "waradd:blocks/vault_floor_bottom",
+        "up": "waradd:blocks/vault_floor_top",
+        "north": "waradd:blocks/vault_floor_side",
+        "east": "waradd:blocks/vault_floor_side",
+        "south": "waradd:blocks/vault_floor_side",
+        "west": "waradd:blocks/vault_floor_side"
+	}
+}
